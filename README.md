@@ -25,7 +25,7 @@
 
 - **Instagram** — [@_helpfamilies](https://instagram.com/_helpfamilies)
 - **Newsletter** — [앤소장의 AI교육 뉴스레터 초록지붕](https://maily.so/annesojangletter)
-- **Open Talk** — [H.E.L.P 오픈톡방](https://open.kakao.com/o/pOLLQDsi)
+- **Open Talk** — [H.E.L.P 오픈톡방](https://open.kakao.com/o/gsYDWKti)
 - **Email** — helpfamilies.official@gmail.com
 
 ## 배포
